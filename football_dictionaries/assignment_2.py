@@ -1,5 +1,4 @@
 def players_by_position(squads_list):
-    def players_grouped_by_position(squads_list):
     grouped_players = {}
     for player in squads_list:
         player_dict = {
